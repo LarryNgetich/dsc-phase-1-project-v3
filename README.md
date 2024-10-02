@@ -29,18 +29,8 @@ The data for this analysis is sourced from the **National Transportation Safety 
 The dataset contains detailed records of aviation accidents from 1962 to 2023, including information on aircraft types, accident dates, locations, and causes. This data is critical for identifying trends and understanding risk factors associated with different aircraft models.
 
 ### Visualizations
-
-1. **Accident Trends Over Time**: This visualization shows the number of aviation accidents per year, highlighting any significant changes or trends in aviation safety.
-
-   ![Accident Trends Over Time](path_to_your_visualization_1.png)
-
-2. **Accidents by Aircraft Type**: This chart illustrates the distribution of accidents among different aircraft models, allowing us to identify which models have the highest and lowest accident rates.
-
-   ![Accidents by Aircraft Type](path_to_your_visualization_2.png)
-
-3. **Correlation Between Aircraft Age and Accident Frequency**: This graph demonstrates the relationship between the age of aircraft and the frequency of accidents, indicating whether older aircraft tend to be involved in more accidents.
-
-   ![Correlation Between Aircraft Age and Accident Frequency](path_to_your_visualization_3.png)
+The visualizations can be found in the link below:
+https://public.tableau.com/authoring/PhaseOneProject/Dashboard1/Phase%201%20Project%20Dashboard#1
 
 ## Conclusion
 
