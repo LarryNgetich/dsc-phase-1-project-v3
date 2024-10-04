@@ -30,7 +30,7 @@ The dataset contains detailed records of aviation accidents from 1962 to 2023, i
 
 ### Visualizations
 The visualizations can be found in the link below:
-https://public.tableau.com/authoring/PhaseOneProject/Dashboard1/Phase%201%20Project%20Dashboard#1
+[https://public.tableau.com/authoring/PhaseOneProject/Dashboard1/Phase%201%20Project%20Dashboard#1](https://public.tableau.com/app/profile/larry.ng.etich3764/viz/PhaseOneProject/Dashboard1)
 
 ## Conclusion
 
